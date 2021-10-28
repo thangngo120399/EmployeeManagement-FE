@@ -1,0 +1,43 @@
+/* .card mb-3 {
+    cursor: pointer;
+} */
+.custom {
+    max-width: 540px;
+}
+.card {
+    padding: 12px 12px 12px 20px;
+    margin-top: 0;
+}
+.card-body {
+    margin-left: 10px;
+
+}
+.card-title{
+    margin-left: 30px;
+}
+ul li {
+    list-style-type: none;
+}
+.status{
+    position: absolute;
+    right: -8px;
+    bottom:0px;
+    z-index: 100;
+}
+
+.block {
+    opacity: 0.6;
+}
+
+.one-line {
+    clear: both;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    white-space: pre-wrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+     display: -webkit-box;
+}

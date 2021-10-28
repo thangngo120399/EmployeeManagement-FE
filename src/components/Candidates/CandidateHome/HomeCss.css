@@ -1,0 +1,17 @@
+.custom {
+    max-width: 540px;
+}
+.card {
+    padding: 12px 12px 12px 20px;
+    margin-top: 0;
+}
+.card-body {
+    margin-left: 10px;
+
+}
+.card-title{
+    margin-left: 30px;
+}
+ul li {
+    list-style-type: none;
+}
